@@ -1,5 +1,8 @@
 # Hi there, I'm Akşin 👋
+AKŞIN MAHMUDOV
+Software & Automation Engineer
 
+Baku, Azerbaijan | github.com/Akshin13 | akshinmahmudov13@gmail.com
 Software Engineering & Automation Enthusiast | High School Student
 
 - 🔭 **Building**: AI-powered applications, Python automation tools, and web platforms

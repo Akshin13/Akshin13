@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Akşin 👋
 
-<!--
-**Akshin13/Akshin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering & Automation Enthusiast | High School Student
 
-Here are some ideas to get you started:
+- 🔭 **Building**: AI-powered applications, Python automation tools, and web platforms
+- 💻 **Tech Stack**: Python, JavaScript, HTML/CSS, Git, GitHub, VS Code, macOS
+- 🎯 **Current Focus**: Data Structures, Software Architecture & Cloud Technologies
+- 🚀 **Goals**: Crafting production-grade software and pursuing top-tier Computer Science programs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Activity & Statistics
+![Akshin13's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshin13&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshin13&layout=compact&theme=dark)
+
+---
+
+### 🛠️ Tech Stack & Tools
+`Python` `JavaScript` `Git` `GitHub` `VS Code` `Claude Code` `macOS`
